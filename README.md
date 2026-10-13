@@ -31,4 +31,4 @@
   <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" title="R" /></a>
 </p>
 
-<h3 align="center">Come say hi 👋 <a href="https://p-brunet.github.io/my-blog/contact">get in touch</a></h3>
+<h3 align="center">Come say <a href="https://p-brunet.github.io/contact">hi</a> 👋</h3>
